@@ -1,0 +1,25 @@
+{
+  "name": "all-recipe-backend-nodejs",
+  "version": "1.0.0",
+  "description": "A simple backend CRUD api for adding Recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlenetormes/all-recipe-backend-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlenetormes/all-recipe-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/charlenetormes/all-recipe-backend-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4"
+  }
+}
